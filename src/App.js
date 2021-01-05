@@ -22,7 +22,7 @@ export default class App extends Component {
   render(){
     return(
       <div className="App">
-        <h1>Rototics search</h1>  
+        <h1>Robotics search</h1>  
         <CardList robots={this.state.robots}/>
       </div>
     )
